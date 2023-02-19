@@ -22,7 +22,7 @@ local data = {
 
        {
 
-           ["title"] = "**Someone Executed [SCRIPT NAME]** in: "   ..game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name.. " ",
+           ["title"] = "**Someone Executed [Lost script]** in: "   ..game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name.. " ",
 
            ["description"] = "Username: " .. game.Players.LocalPlayer.Name.." with **"..webhookcheck.."**",
 
